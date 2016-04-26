@@ -52,7 +52,7 @@
     
     .col { width: 100%; }  /*makes colummns stack */
     
-    main-nav { display: none; }
+    .main-nav { display: none; }
     
     h1 { font-size: 180%; }
     h2 { font-size: 150%; }
