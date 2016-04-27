@@ -93,7 +93,6 @@
     
     .footer-nav li,
     .social-links li {
-        display: inline-block;
         margin-right: 5px;
     }
 
@@ -103,29 +102,20 @@
 }
     
     footer div.col:first-child {
-        width: 55%;
+        width: 65%;
        
     }
     
     footer div.col:last-child {
-        width: 45%;
+        width: 35%;
         margin-left: 0;
     }
 
     
-    .footer-nav {
-    list-style: none;
-    float: none;
-    text-align: center;
-}
+    
 
 
 
-.social-links {
-    list-style: none;
-    float: none;
-    text-align: center;
-    }
  
 
  }
